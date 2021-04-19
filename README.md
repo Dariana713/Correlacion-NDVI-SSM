@@ -43,3 +43,5 @@ CombinaciónAbril <- stack(Ajuste_AbrilNDVI, SSM_media_Abril)
 
 
 # HAY QUE ELIMINAR LOS "na", de la función, no es muy acorde con los -9999
+![image](https://user-images.githubusercontent.com/78845785/115283817-2b3df800-a14c-11eb-8fb6-a148f6ec1d38.png)
+IMPORTANTE
